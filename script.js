@@ -277,7 +277,6 @@ const updatePlaylist = () => {
     userData.songCurrentTime = 0;
     pauseSong();
     renderSongs(sortSongs());
-    console.log(userData.songs);
   });
 };
 
@@ -422,7 +421,6 @@ const addNewSong = () => {
       userData.songs.push(data);
       searchSongDesEle.style.color = "green"
       searchSongDesEle.textContent = "Song Added"
-      console.log(userData.songs)
       renderSongs(userData?.songs);
       pauseSong();
       setPlayerDisplay();

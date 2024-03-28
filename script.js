@@ -386,6 +386,13 @@ const sortBySelect = () => {
   setPlayButtonAccessibleText();
 };
 
+const findNewSongId = () =>{
+  const allSongIds = userData.songs.map((song) =>{
+    return song.id;
+  })
+  return Math.max(...allSongIds)+1;
+}
+
 const addNewSong = () => {
   if (songNameInput.value == "") {
     searchSongDesEle.textContent = "Please enter song name.";

@@ -1,5 +1,5 @@
 # Music App
-🎵 A sleek and user-friendly music app built with HTML, CSS, and vanilla JavaScript. Enjoy essential music features like play, pause, skip, and shuffle, along with playlist management, song finding, detailed song information, and customizable sorting options. Dive into a seamless music experience with intuitive controls and a clean interface.
+🎵 A sleek and user-friendly music app built with HTML, CSS, and vanilla JavaScript. Enjoy essential music features like play, pause, skip, and shuffle, along with playlist management, new song fetching, detailed song information, and customizable sorting options. Dive into a seamless music experience with intuitive controls and a clean interface.
 
 
 ## Table of Contents
@@ -17,7 +17,7 @@
 
 ## Description
 
-🎵 A sleek and user-friendly music app built with HTML, CSS, and vanilla JavaScript. Enjoy essential music features like play, pause, skip, and shuffle, along with playlist management, song finding, detailed song information, and customizable sorting options. Dive into a seamless music experience with intuitive controls and a clean interface.
+🎵 A sleek and user-friendly music app built with HTML, CSS, and vanilla JavaScript. Enjoy essential music features like play, pause, skip, and shuffle, along with playlist management, new song fetching, detailed song information, and customizable sorting options. Dive into a seamless music experience with intuitive controls and a clean interface.
 
 ---
 
